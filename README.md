@@ -35,3 +35,11 @@ Tema 3): se modificaron README.md y pom.xml de forma simultanea, se verifico el
 Working Directory con git status y git diff, se retiro pom.xml del Staging Area
 y se descarto su modificacion con git restore, conservando en este commit los
 cambios validos de README.md y observaciones.txt.
+
+## Gestion de ramas
+
+Rama utilizada: `feature-ospina`.
+
+Se desarrollo de forma independiente la clase `ControlVersion_Ospina.java`, que
+muestra en consola el nombre del estudiante e indica que la funcionalidad fue
+creada desde una rama independiente y fusionada con `master` mediante `merge --no-ff`.
