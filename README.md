@@ -27,3 +27,11 @@ historial ordenado con commits trazables y verificacion del estado del proyecto.
 Evaluacion 02 de Lenguaje de Programacion II - Tema 3: Control de versiones con Git y GitHub
 (Seccion T4MO, Grupo 00, Semestre 2026-02). Aqui se registra la preparacion del repositorio,
 la linea base inicial y el control de cambios con dos commits trazables.
+
+## Control de cambios
+
+Gestion de cambios y control del area de preparacion con Git (Evaluacion 02,
+Tema 3): se modificaron README.md y pom.xml de forma simultanea, se verifico el
+Working Directory con git status y git diff, se retiro pom.xml del Staging Area
+y se descarto su modificacion con git restore, conservando en este commit los
+cambios validos de README.md y observaciones.txt.

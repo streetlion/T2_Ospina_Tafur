@@ -1,0 +1,3 @@
+Antonio Hans Ospina Tafur - Lenguaje de Programacion II (T4MO, Grupo 00)
+Evaluacion 02 - Tema 3: gestion de cambios y control del area de preparacion.
+Archivo creado fuera del Staging Area y agregado unicamente en el commit final.
