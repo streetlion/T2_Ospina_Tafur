@@ -1,0 +1,30 @@
+# ================= Compilacion Maven =================
+target/
+
+# ================= Entorno Eclipse ====================
+.settings/
+.classpath
+.project
+bin/
+
+# ================= Artefactos Java ====================
+*.class
+*.jar
+*.war
+*.ear
+
+# ================= Registros y temporales ==============
+*.log
+*.tmp
+*.swp
+*~
+
+# ================= Editores / IDE ======================
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# ============ Documento interno de trabajo =============
+consolidado.md
+
